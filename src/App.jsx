@@ -2,40 +2,76 @@ import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import NavHeader from "@/components/ui/nav-header"
 import QuestionComposer from "@/components/ui/question-composer"
-import { findMockResponse } from "@/data/mockResponses"
+import { queryBackend } from "@/services/queryService"
 function App() {
   const [question, setQuestion] = useState("")
   const [mode, setMode] = useState("industry")
   const [response, setResponse] = useState(null)
   const [showSource, setShowSource] = useState(false)
-  const [abstained, setAbstained] = useState(false)
+  const [abstention, setAbstention] = useState(null)
+  const [status, setStatus] = useState("idle")
 
-  const handleAsk = () => {
+  const handleAsk = async () => {
+    const trimmedQuestion = question.trim()
+    if (!trimmedQuestion || status === "loading") return
+
     setShowSource(false)
+    setStatus("loading")
 
-    const match = findMockResponse(question, mode)
+    try {
+      const result = await queryBackend(trimmedQuestion, mode)
 
-    if (match) {
-      setResponse(match)
-      setAbstained(false)
-    } else {
+      if (result.grounded) {
+        setResponse(result)
+        setAbstention(null)
+        setStatus("success")
+      } else {
+        setResponse(null)
+        setAbstention(result)
+        setStatus("abstained")
+      }
+    } catch (error) {
+      console.error("Manak Mitra query failed:", error)
       setResponse(null)
-      setAbstained(true)
+      setAbstention(null)
+      setStatus("error")
     }
   }
 
   const handleModeChange = (nextMode) => {
     setMode(nextMode)
     setResponse(null)
-    setAbstained(false)
+    setAbstention(null)
     setShowSource(false)
+    setStatus("idle")
   }
 
   const handleAbstention = () => {
-    setQuestion("What BIS standard applies to a completely unknown product?")
-    setAbstained(true)
+    const dummyQuestion = "What BIS standard applies to a completely unknown product?"
+    setQuestion(dummyQuestion)
     setResponse(null)
     setShowSource(false)
+    setStatus("abstained")
+    setAbstention({
+      question: dummyQuestion,
+      mode,
+      grounded: false,
+      abstained: true,
+      reason:
+        "No matching Indian Standard was found in the current knowledge base for this question.",
+      closestEvidence: null,
+      nextAction:
+        "Visit the official BIS website or BIS Care app for further assistance.",
+      nextActionUrl: null,
+    })
+  }
+
+  const handleNextAction = (actionText, actionUrl) => {
+    if (actionUrl) {
+      window.open(actionUrl, "_blank", "noopener,noreferrer")
+      return
+    }
+    window.alert(actionText)
   }
 
   return (
@@ -63,6 +99,19 @@ function App() {
             and clear next actions.
           </p>
 
+          {/* Loading */}
+          {status === "loading" && (
+            <div className="mt-8 w-full max-w-2xl rounded-lg border bg-white p-6 text-left shadow-sm">
+              <p className="text-sm font-medium text-slate-500">
+                Processing
+              </p>
+
+              <p className="mt-2 text-slate-900">
+                Looking up the relevant Indian Standard...
+              </p>
+            </div>
+          )}
+
           {/* Mock Answer */}
           {response && (
             <div className="mt-8 w-full max-w-2xl rounded-lg border bg-white p-6 text-left shadow-sm">
@@ -85,15 +134,15 @@ function App() {
 
               <div className="mt-3">
                 <p className="font-semibold text-slate-900">
-                  {response.standard.number}
+                  {response.standard}
                 </p>
 
                 <p className="mt-1 text-sm text-slate-500">
-                  {response.standard.edition}
+                  {response.edition}
                 </p>
 
                 <p className="mt-1 text-sm text-slate-500">
-                  {response.standard.clause} · {response.standard.page}
+                  {response.clause} · {response.page}
                 </p>
               </div>
 
@@ -118,14 +167,17 @@ function App() {
                 {response.nextAction}
               </p>
 
-              <Button className="mt-4">
+              <Button
+                className="mt-4"
+                onClick={() => handleNextAction(response.nextAction, response.nextActionUrl)}
+              >
                 Continue to BIS
               </Button>
             </div>
           )}
 
           {/* Abstention */}
-          {abstained && (
+          {abstention && (
             <div className="mt-8 w-full max-w-2xl rounded-lg border bg-white p-6 text-left shadow-sm">
               <p className="text-sm font-medium text-slate-500">
                 Insufficient Evidence
@@ -136,19 +188,44 @@ function App() {
               </h3>
 
               <p className="mt-3 text-sm leading-6 text-slate-600">
-                I found related information, but there isn't enough verified
-                evidence to provide a reliable answer.
+                {abstention.reason}
               </p>
 
-              <Button className="mt-5">
+              <Button
+                className="mt-5"
+                onClick={() => handleNextAction(abstention.nextAction, abstention.nextActionUrl)}
+              >
                 Visit Official BIS Route
               </Button>
+            </div>
+          )}
+
+          {/* Error */}
+          {status === "error" && (
+            <div className="mt-8 w-full max-w-2xl rounded-lg border bg-white p-6 text-left shadow-sm">
+              <p className="text-sm font-medium text-slate-500">
+                Something Went Wrong
+              </p>
+
+              <p className="mt-2 text-slate-900">
+                We couldn't process that question right now. Please try again.
+              </p>
             </div>
           )}
 
           {/* Source Viewer */}
           {showSource && response && (
             <div className="mt-6 w-full max-w-5xl rounded-xl border bg-white p-6 text-left shadow-sm">
+              <div className="mb-4 flex justify-end">
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => setShowSource(false)}
+                >
+                  Close
+                </Button>
+              </div>
+
               <div className="grid gap-6 md:grid-cols-2">
 
                 {/* AI Answer */}
@@ -167,7 +244,7 @@ function App() {
                     </p>
 
                     <p className="mt-1 text-sm text-slate-600">
-                      {response.standard.number} · {response.standard.clause} · {response.standard.page}
+                      {response.standard} · {response.clause} · {response.page}
                     </p>
                   </div>
                 </div>
@@ -179,15 +256,15 @@ function App() {
                   </p>
 
                   <h3 className="mt-2 font-semibold text-slate-900">
-                    {response.standard.number}
+                    {response.standard}
                   </h3>
 
                   <p className="mt-1 text-sm text-slate-500">
-                    {response.standard.edition}
+                    {response.edition}
                   </p>
 
                   <p className="mt-1 text-sm text-slate-500">
-                    {response.standard.clause} · {response.standard.page}
+                    {response.clause} · {response.page}
                   </p>
 
                   <div className="mt-5 rounded-md border bg-white p-4">
@@ -196,7 +273,7 @@ function App() {
                     </p>
 
                     <p className="mt-3 text-sm leading-6 text-slate-900">
-                      {response.evidenceText}
+                      {response.evidence}
                     </p>
                   </div>
                 </div>
