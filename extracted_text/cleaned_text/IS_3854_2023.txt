@@ -1,4 +1,4 @@
-   IS 3854 : 2023 
+IS 3854 : 2023 
 घरेलु और समान कार्यो के ललए लविच — 
 लिलिलि  
 ( तीसरा पुनरीक्षण ) 
@@ -16,10 +16,9 @@ www.bis.gov.in     www.standardsbis.in
 November 2023   Price Group 17
 भारतीर्य मानक 
 Indian Standard 
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 FOREWORD
 This Indian Standard (Third Revision) was adopted by the Bureau of Indian Standards, after the draft finalized 
 by the Electrical Wiring Accessories Sectional Committee had been approved by the Electrotechnical Division 
@@ -47,10 +46,9 @@ observed or calculated, expressing the results of a test or analysis shall be ro
 IS 2 : 2022 ‘Rules for rounding off numerical values (second revision)’. The number of significant places retained 
 in the rounded off value should be the same as that of the specified value in this standard.
 Electrical Wiring Accessories Sectional Committee, ETD 14
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 1
 Indian Standard
@@ -136,10 +134,9 @@ cables/cords with rigid and
 flexible conductor for rated 
 voltages up to and including 
 450/750 v (fourth revision)
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 2
 IS/IEC No. T
@@ -258,10 +255,9 @@ IS/ISO/IEC Guide 51
 Safety aspects — Guidelines 
 for their inclusion in 
 standards (first revision)
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 3
 3
@@ -365,10 +361,9 @@ which is less than 3 mm but is not less than 1.2 mm.
 NOTE — Switches of mini-gap construction are for functional 
 purposes and they are not intended to be used for safety 
 isolation purposes.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 4
 Cross- Section of 
@@ -421,10 +416,9 @@ parts, as in the case of terminals provided with a stirrup.
 The shape of the conductor space may differ from those shown provided that a circle with a diameter equal to the minimum specified for D of the minimum 
 outlines specified for the elongated hole accepting cross sections of conductors up to 2.5 mm2 can be inscribed.
  Fig. 1 Pillar Terminals
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 5
 The part which retains the conductor in position may be of insulating material provided the pressure necessary to clamp the conductor is not transmitted 
@@ -452,10 +446,9 @@ Up to 16 5.5 2.0 1.2 2.0 1.2
 Up to 25 7.0 2.5 2.0 3.0 2.0
 ᵃ The values specified apply to the screws covered by the corresponding columns in Table 5.
 Fig. 2 Screw Terminals and Stud Terminals
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 6
 A saddle
@@ -479,10 +472,9 @@ for D can be inscribed.
 The shape of the upper and lower faces of the saddle may be different to accommodate conductors of either small or large cross-sectional areas by 
 inverting the saddle.
 Fig. 3 Saddle Terminal
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 7
  A locking means
@@ -504,10 +496,9 @@ a The values specified apply to the screws covered by the corresponding columns 
 For this type of terminal, a spring washer or equally effective locking means shall be provided and the surface within the clamping area shall be smooth.
 For certain types of switches, the use of lug terminals of sizes smaller than that specified is allowed.
 Fig. 4 Lug Terminal
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 8
 A fixed part
@@ -531,10 +522,9 @@ Up to 25 7.0 3.0
 a The bottom of the conductor space shall be slightly rounded in order to obtain a reliable connection.
 The value of the torque to be applied is that specified in column 2 or 4 of Table 5, as appropriate.
 Fig. 5 Mantle Terminal
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 9
 3.21 Clamping Unit —
@@ -624,10 +614,9 @@ penetrated in normal use and is intended to provide
 protection against ingress of water or solid objects 
 and/or to allow the operation of an accessory.
 NOTE — Examples are shown in Fig. 8.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 10
 Key
@@ -637,10 +626,9 @@ Key
 4 Protective membrane
 5 Grommet
 Fig. 8 Examples of Membranes and Grommets
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 11
 3.38 Self-ballasted Lamp SBL 
@@ -753,10 +741,9 @@ ON & OFF).
 are subjected to all the relevant tests except the test of 
 19.2 and 19.3, where two further sets of three 
 specimens are used.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 12
 Table 1 Number of Specimens Needed for the Tests
@@ -819,10 +806,9 @@ l Number of specimens required for insulation-piercing terminals (IPTs) are show
 m For switches with pilot light units if the electronic circuitry is so enclosed that the short-circuiting or 
 disconnecting of components is impossible or difficult, the manufacturer shall provide additional prepared 
 test specimens.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 13
 Switches 
@@ -940,18 +926,16 @@ c) Rocker;
 d) Push-button;
 e) Cord-operated; and
 f) Dolly type.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 14
 The figures indicating the terminals are given for test purposes only and are not those required to be marked.
 Fig. 9 Classification According to Connections
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 15
 7.1.6 
@@ -1059,10 +1043,9 @@ NOTES
 ingress of solid object replaced by the relevant number.
  2 Lines formed by the constructions of the tool are not 
 considered as part of the marking.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 16
 The 
@@ -1160,10 +1143,9 @@ The symbols for ‘ON’ and ‘OFF’ shall not be used for
 the indication of the switch positions, unless, at the 
 same time, they clearly indicate the direction of the 
 movement of the actuating members.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 17
 NOTE — Other suitable means for the indication of the switch 
@@ -1270,10 +1252,9 @@ During this test, switches with their associated
 mounting means shall not deform to such an extent 
 that live parts can be touched through the tip of test  
 probe 11 of IS 1401.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 18
 NOTE — Membranes or the like are tested according to 
@@ -1380,10 +1361,9 @@ Compliance is checked by inspection and, by the test of
 16.3 and if necessary, by measurement.
 NOTE — Lacquer or enamel is not considered to be insulating 
 material for the purpose of 10.1 to 10.6.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 19
 10.7 Requir
@@ -1487,10 +1467,9 @@ of 12.2.6 and 12.2.8.
 NOTE — Provisionally SI, BA and UN threads are considered 
 to be comparable in pitch and mechanical strength to metric 
 ISO thread.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 20
 12.2.4 T
@@ -1567,10 +1546,9 @@ a For special purposes such as ELV applications, where flexible conductors are u
 b  Each supply terminal of switches, other than those of pattern numbers 3, 03 and 7 shall allow the connection of two 2.5 mm 2 conductors. For 
 switches having a rated voltage not exceeding 250 V a round hole is sufficient for the connection of two 2.5 mm2 conductors.
 c The use of flexible conductors is permitted.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 21
 IS 3854 : 2023 
 Table 5 Tightening Torque for the Verification of the Mechanical Strength of Screw-type Terminals
@@ -1655,10 +1633,9 @@ kg
 a If the bushing hole diameter is not large enough to accommodate the conductor without binding, a bushing having the next larger hole size 
 may be used.
 b Tolerance for height H = ± 15 mm.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 22
 During 
@@ -1781,10 +1758,9 @@ to 25.0
 inclusive
 (1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
 i) Pull (N) 30 40 50 50 60 80 90 100
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 23
 limited 
@@ -1895,10 +1871,9 @@ insulation.
 clamping units which allow the proper connection of 
 rigid or of rigid and flexible copper conductors having 
 nominal cross-sectional areas as shown in Table 10.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 24
 T
@@ -1958,10 +1933,9 @@ unfavourable position; and
 – unearthed metal boxes, without insulating lining, with the switch mounted in the most 
 unfavourable position.
 4.5 4.5 4.5
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 25
 Description mm
@@ -2021,10 +1995,9 @@ cross-sectional area
 1)  Each supply terminals of switches other than those of pattern numbers 3, 03 and 7 shall allow the connection of two 2.5 mm2 conductors. In such a 
 case terminal for rated current 10 A with separate independent clamping means for each conductor shall be used.
 Table 9 (Concluded )
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 26
 Compliance 
@@ -2130,10 +2103,9 @@ The test is then repeated with rigid stranded copper
 conductors having the largest and smallest cross-sectional 
 areas specified in 12.3.2; these conductors are, however, 
 connected and disconnected only once.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 27
 Screwless 
@@ -2244,10 +2216,9 @@ A specified conductor properly inserted into a terminal
 is allowed to be deflected in any of the 12 directions 
 differing from each other by 30º with a tolerance 
 referred to each direction of ± 5.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 28
 Fig. 10 Test Wall in Accordance with the Requirements of 15.2.3
@@ -2284,19 +2255,17 @@ the test.
 for the conductor, it may be advisable to remove those parts of 
 the samples which do not allow the deflection of the conductor 
 corresponding to the force to be applied.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 29
 NOTE — Care should be taken that the bushing hole is made in a way which ensures that the force extended to the cable is pure pulling 
 force and that the transmission of any torque to the connection in the clamping means is avoided.
  Fig. 11 Arrangement for Checking Damage to Conductors
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 30
 Key
@@ -2316,10 +2285,9 @@ DEFLECTION
 MEASURE THE VOLTAGTE DROP DURING TEST 
 ON SCREWLESS TERMINALS
 Fig. 12 Information for Deflection Test
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 31
 A
@@ -2436,10 +2404,9 @@ conductors is not necessarily pressed against live
 parts of different polarity or against moving parts
 of the mechanism, such as the spindle of a rotary
 switch.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 32
 Compliance is 
@@ -2534,25 +2501,22 @@ approximately perpendicular to the mounting or
 supporting surface (see Table 14). 
 Where the axis between the application force and 
 the axis through the force necessary to operate the
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 33
 Fig. 13A DETERMINATION OF THE DIRECTION OF THE FORCES TO BE APPLIED
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 34
 Fig. 13B TEST SET UP 
 Fig. 13 Verification of the Requirements 
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 35
 T
@@ -2651,10 +2615,9 @@ accessible from the front. These means shall not serve
 any other fixing purpose.
 NOTE — Switch mounting means, if used to lock the rotation 
 of the box, do not constitute a use for “any fixing purpose”.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 36
 13.7 Combinations of Switches
@@ -2756,10 +2719,9 @@ Openings
 be displaced by the mechanical and thermal stresses 
 occurring in normal use.
 Compliance is checked by the following test:
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 37
 Membranes 
@@ -2867,10 +2829,9 @@ mm
 34
 37.5
  NOTE — The limits of external dimensions of cables specified in this table arc based on IS 694 and IS 9968 (Part 1).
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 38
 1
@@ -2972,10 +2933,9 @@ cloth the specimen is pressed with a force of 5 N.
 No traces of the cloth shall remain on the specimen  
 and the material of the specimen shall not stick to the 
 cloth.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 39
 After 
@@ -3076,10 +3036,9 @@ switch are tightened with a torque equal to two-thirds
 of the appropriate value given in Table 5.
 Glands are tightened with a torque equal to two-thirds 
 of the appropriate value given in Table 16.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 40
 T
@@ -3184,10 +3143,9 @@ The measurements are made consecutively as indicated
 in Table 17 the switch positions and the connections 
 necessary for items 1, 2 and 3 (see Table 18) being as 
 shown in Table 17.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 41
 T
@@ -3266,10 +3224,9 @@ Two-way switch
 1 – 2
 B + 2
 B + 3
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 42
 Pattern 
@@ -3332,10 +3289,9 @@ insulating material, it is pressed against holes or grooves
 without any appreciable force, by means of a straight 
 unjointed test finger having the same dimensions as the 
 standard test finger shown in IS 1401.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 43
 T
@@ -3404,10 +3360,9 @@ NOTES
 – 500 V for the electric strength test after normal operation.
  3 Tests for the verification to the “off” position of semiconductor switching devices according to item 3 are under consideration.
  4 This test is only made if any insulation is necessary.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 44
 16.3 Electric Str
@@ -3540,10 +3495,9 @@ The cables connected to the switch shall enter through
 the top of the box, the point(s) of entry being sealed 
 to prevent the circulation of air. The length of each 
 conductor within the box shall be 80 mm ± 10 mm.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 45
 Surface-type 
@@ -3650,25 +3604,22 @@ For rotary switches intended to be operated in either
 direction, the actuating member is turned in one 
 direction for half the total number of operations and in 
 the reverse direction for the remainder.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 46
 Fig. 14 Apparatus for Baking and Making Capacity and Normal Operation Test
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 47
 When the marking made by the manufacturer indicates other connections, this marking shall be followed.
 Fig. 15 Circuit Diagrams for Making and Breaking Capacity and Normal Operation
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 48
 Switches 
@@ -3762,10 +3713,9 @@ The circuit details and the manner of operation of the
 selector switches S are as described in 18.2 unless 
 otherwise specified.
 The number of operations is as shown in Table 21.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 49
 T
@@ -3876,10 +3826,9 @@ Switches intended for fluorescent lamp loads shall
 withstand, without excessive wear or other harmful 
 effect, the electrical and thermal stresses occurring 
 when controlling externally ballasted lamp circuits.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 50
 Compliance 
@@ -3986,10 +3935,9 @@ operation of the switch is not regarded as welding.
 Sticking of contacts is permitted if the contacts can be 
 separated with a force applied to the actuator of a value 
 which does not damage the switch mechanically.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 51
 For 
@@ -4110,20 +4058,18 @@ Above 16 up to and
 including 20
 192 13 231 18.5 250 150
 NOTE — R2 is the total series resistance in the lamp circuit including the ESR (equivalent series resistance) value of the capacitor.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 52
 Fig. 16 Circuit Diagrams for Testing Switches
 Fig. 16A CIRCUIT DIAGRAMS FOR TESTING SWITCHES FOR USE ON 
 EXTERNALLY BALLASTED LAMP LOADS
 Fig. 16B CIRCUIT DIAGRAMS FOR TESTING SWITCHES ACCORDING TO 19.3 
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 53
 Switches 
@@ -4216,10 +4162,9 @@ electric strength test as specified in 16.3 and a terminal
 temperature rise test as specified in 17.
 For the electric strength test, the test voltage of 4 000 V 
 shall be reduced by 1 000 V and the other test voltage 
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 54
 by 
@@ -4311,10 +4256,9 @@ by means of the claws.
 Before applying the blows, fixing screws of bases and 
 covers are tightened with a torque equal to two-thirds of 
 the relevant value as specified in Table 5.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 55
 The 
@@ -4429,10 +4373,9 @@ standard even if this part is omitted. If a decorative cover
 is backed by an inner cover, fracture of the decorative 
 cover is neglected if the inner cover withstands the tests 
 after removal of the decorative cover.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 56
 20.3 
@@ -4531,10 +4474,9 @@ members complying with the test of 20.8 and 20.9;
 and
 b) 20 N, for other covers or cover plates and actuating
 members
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 57
 Fig. 17 Arrangement for Test on Covers or Cover-Plates
@@ -4592,10 +4534,9 @@ is applied for 1 min in the most unfavorable direction
 within a conical surface with the center being the 
 operating cord and the angle not exceeding 80º to the 
 vertical.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 58
 Fig. 18 Gauge (Thickness: About 2 mm) for the Verification of the 
@@ -4648,19 +4589,17 @@ parts necessary to retain the earthing terminals in a box
 shall be tested as specified in 21.4.
 When it is not possible to carry out the test on the 
 specimen, the test should be carried out on a specimen 
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 59
 1) Spacing piece having the same thickness as that of the supporting part.
 Fig. 19 Examples of Application of the Gauge of Fig. 18 on Covers Fixed without Screws on a 
 Mounting Surface or Supporting Surface
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 60
 Cases a) and b) do not comply.
@@ -4668,19 +4607,17 @@ Cases c), d), e) and f) comply (compliance shall, however, also be checked with 
 the gauge shown in Fig. 21).
 Fig. 20 Examples of Application of The Gauge of 
 Fig. 18 In Accordance with The Requirements of 20.8
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 61
 Fig. 21 Gauge for Verification of Grooves, Holes and Reverse Tapers
 Fig. 22 Sketch Showing the Direction of Application of the Gauge of Fig. 21
 Fig. 23 Ball-Pressure Apparatus
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 62
 of 
@@ -4787,10 +4724,9 @@ Mechanical Connections
 Screws and rivets, which serve as electrical as well 
 as mechanical connections, shall be locked against 
 loosening and/or turning.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 63
 Compliance 
@@ -4894,10 +4830,9 @@ so connected that the core insulation touches the metal
 part of the clamping unit or, if the core insulation is 
 prevented by construction from touching the metal 
 part, the outside of the obstruction.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 64
 For 
@@ -5008,10 +4943,9 @@ During the application time of the glow-wire and
 during a period of 30 s from the end of the application 
 time, the sample and the surrounding parts, including 
 the layer under the specimen, shall be observed.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 65
 The 
@@ -5051,10 +4985,9 @@ The parts are then immersed for 10 min in a
 a temperature of (27 ± 5) °C.
 Fig. 24 Determining Parts of Insulating Material To Be Tested – 
 Diagrammatic Representation (See 24.1)
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 66
 W
@@ -5132,10 +5065,9 @@ acceptance test is specified in Annex B.
 26.3 Routine Tests
 The following shall constitute routine tests:
 a) Marking (see 8).
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 67
 ANNEX A
@@ -5227,10 +5159,9 @@ the flexible cable into the switch to such an extent as to
 impair safety or so that the cable anchorage is loosened.
 The flexible cable is then subjected 25 times to a pull 
 of 30 N. The pulls are applied without jerks in the most 
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 68
 unfavorable direction, each time for 1 s. immediately 
@@ -5296,10 +5227,9 @@ or
 5 22.2
 NOTE — The limits of the external diameter of cables specified in this table are based on type 60277 IEC 53 according to IEC 60227-5 and type 
 60245 IEC 66 according to IEC 60245-4 and are given for information.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 69
 ANNEX B
@@ -5382,10 +5312,9 @@ Where 19.2 in IEC 60669-1 is based on the principle
 to define an equivalent circuit which results in an I peak 
 and I2t value, 19.3 in this document uses the values of 
 Ipeak and I 2t as the reference. This approach has been 
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 70
 preferred, 
@@ -5430,26 +5359,23 @@ Table C-1; or
 the values have been interpolated to fit the nominal 
 values of Table 22.
 Fig. C-1 120 V 15 W (Lt Spice Model)
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 71
 NOTE — R1 in Fig. C-1 and C-2 is not the R1 of Fig. 16.
 Fig. C-2 230 V 15 W (Lt Spice Model)
 Fig. C-3 Model For Multiple Lamp Loads
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 72
 Fig. C-4 Ipeak and I2t for Multiple Lamp Loads
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 73
 ANNEX D
@@ -5553,10 +5479,9 @@ b) non-reusable IPTs.
 Switches provided with non-reusable IPTs can only 
 be used in trunking systems according to IEC 61084  
 (all parts).
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 74
 8
@@ -5650,10 +5575,9 @@ NOTE — These values are based on PVC isolated conductors according to IEC 6022
 a For special purposes such as ELV applications, conductors from 0,5 mm2 up to 1 mm2 inclusive can be used.
 b Each switch other than those of pattern numbers 3 and 03 shall be designed to permit the continuity of the supply line. This can be achieved by a 
 terminal with separate independent clamping units for each conductor.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 75
 12.4.3 Reusable 
@@ -5761,10 +5685,9 @@ type,
 according to Table D-2.
 If the terminal is fitted with more than one conductor, 
 the test is done on each of the conductors consecutively.
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 76
 The 
@@ -5871,10 +5794,9 @@ The voltage drop in the IPTs is measured after the
 completion of the 24 th and 192 nd cycles and recorded. 
 The maximum allowable voltage drop of each 
 clamping unit, measured with the current as specified in  
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 77
 T
@@ -5942,20 +5864,18 @@ NOTE — For switches having rated currents other than the preferred ones, the t
 and higher preferred rated currents, and the cross-sectional area of the conductor is chosen equal to the one specified for the next higher preferred 
 rated current.
 Fig. D-1 Example of Insulation-Piercing Terminals
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 78
 Distance D between two test points shall be as short as possible to avoid including the voltage drop of the conductor 
 when measuring the IPT’s voltage drop.
 Fig. D-2 Example of Test-Points
 Fig. D-3 Temperature Cycle for the Voltage Drop Test of 12.4.11
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 79
 ANNEX E
@@ -6013,10 +5933,9 @@ National Test House, Ghaziabad Shri D. C. Basumatary
 Shri P. Somu (Alternate I) 
 Shri Anil K. Pandey (Alternate II)
 Public Works Dept Maharashtra Shri Hemant M. Sali
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 IS 3854 : 2023
 80
 Or
@@ -6040,14 +5959,12 @@ Member Secretary
 Ms Neha Agarwal
  Scientist ‘C’/DEPUTY DIRECTOR 
 (ELECTROTECHNICAL), BIS
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
+
 Bureau of Indian Standards
 BIS is a statutory institution established under the Bureau of Indian Standards Act, 2016 to promote harmonious 
 development of the activities of standardization, marking and quality certification of goods and attending to 
@@ -6088,7 +6005,5 @@ HIMACHAL PRADESH. HUBLI. HYDERABAD. JAIPUR. JAMMU & KASHMIR.
 JAMSHEDPUR. KOCHI. KOLKATA. LUCKNOW. MADURAI. MUMBAI. NAGPUR. 
 NOIDA. PANIPAT. PATNA. PUNE. RAIPUR. RAJKOT. SURAT. VISAKHAPATNAM.
 Published by BIS, New Delhi
- Free Standard provided by BIS via BSB Edge Private Limited to Chaitanya Bharathi Institute of 
-Technology - Khammam(sharmithakuruguntla888@gmail.com) 103.126.34.173.
-
-
+Free Standard provided by BIS via BSB Edge Private Limited to Abhinav Tumla - 
+hyderabad(abhinavtumla@gmail.com) 49.37.135.86.
