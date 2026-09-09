@@ -99,7 +99,7 @@ function App() {
         className="relative overflow-hidden"
         style={{
           background:
-            "radial-gradient(1100px circle at 50% -10%, rgba(245,158,11,0.07), transparent 60%), #F8FAFC",
+            "radial-gradient(1100px circle at 50% -10%, rgba(245,158,11,0.085), transparent 60%), #F8FAFC",
         }}
       >
         <div className="mx-auto flex max-w-3xl flex-col items-center px-6 py-20 text-center md:py-28">

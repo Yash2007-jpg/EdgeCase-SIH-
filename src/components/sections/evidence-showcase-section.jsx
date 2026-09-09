@@ -7,7 +7,13 @@ import { FileText } from "lucide-react"
 
 function EvidenceShowcaseSection() {
   return (
-    <section className="bg-navy py-20 md:py-28">
+    <section
+      className="py-20 md:py-28"
+      style={{
+        background:
+          "radial-gradient(900px circle at 50% 40%, rgba(59,130,246,0.06), transparent 70%), linear-gradient(135deg, #0F2747 0%, #1B3C66 100%)",
+      }}
+    >
       <div className="mx-auto max-w-5xl px-6">
         <motion.div
           initial={{ opacity: 0, y: 16 }}

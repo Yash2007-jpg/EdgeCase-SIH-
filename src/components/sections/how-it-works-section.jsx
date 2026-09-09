@@ -24,19 +24,19 @@ const steps = [
 
 function HowItWorksSection() {
   return (
-    <section className="bg-slate-100 py-20 md:py-28">
+    <section className="bg-[#EBF1FA] py-20 md:py-28">
       <div className="mx-auto max-w-5xl px-6">
         <motion.div
           initial={{ opacity: 0, y: 16 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-80px" }}
           transition={{ duration: 0.5 }}
-          className="max-w-2xl"
+          className="max-w-3xl"
         >
           <p className="text-sm font-semibold uppercase tracking-[0.14em] text-blue-700">
             How it works
           </p>
-          <h2 className="mt-3 text-3xl font-semibold tracking-tight text-slate-900">
+          <h2 className="mt-3 text-4xl font-semibold tracking-tight text-slate-900">
             From question to verified answer.
           </h2>
         </motion.div>
