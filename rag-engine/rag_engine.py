@@ -1,15 +1,15 @@
-from retrieval import Retriever, chunks
+from retrieval import Retriever
 from generator import AnswerGenerator
 
 
 class RAGEngine:
     def __init__(self):
-        self.retriever = Retriever(chunks)
+        self.retriever = Retriever()
         self.generator = AnswerGenerator()
 
     def ask(self, question):
         # Retrieve evidence
-        results = self.retriever.search(question, top_k=3)
+        results = self.retriever.search(question, top_k=10)
 
         # Abstain if evidence is insufficient
         if not self.retriever.has_sufficient_evidence(results):

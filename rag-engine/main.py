@@ -1,32 +1,30 @@
-from retrieval import Retriever, chunks
-from generator import AnswerGenerator
+from rag_engine import RAGEngine
 
 
 def main():
-    retriever = Retriever(chunks)
-    generator = AnswerGenerator()
+    engine = RAGEngine()
 
     question = input("\nAsk a BIS question: ")
 
-    results = retriever.search(question, top_k=2)
+    result = engine.ask(question)
 
-    if not retriever.has_sufficient_evidence(results):
-        print("\nI don't have sufficient evidence in the available BIS documents.")
-        return
-
-    answer = generator.generate(question, results)
+    print("\nStatus:")
+    print(result["status"])
 
     print("\nAnswer:")
-    print(answer["answer"])
+    print(result["answer"])
 
     print("\nSources:")
 
-    for citation in answer["citations"]:
-        print(
-            f"- {citation['standard']} | "
-            f"Clause {citation['clause']} | "
-            f"Page {citation['page']}"
-        )
+    if result["citations"]:
+        for citation in result["citations"]:
+            print(
+                f"- {citation['standard']} | "
+                f"Clause {citation['clause']} | "
+                f"Page {citation['page']}"
+            )
+    else:
+        print("- No sources available.")
 
 
 if __name__ == "__main__":
