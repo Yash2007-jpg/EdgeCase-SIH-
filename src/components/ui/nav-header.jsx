@@ -17,10 +17,10 @@ function NavHeader({ mode = "industry", onModeChange }) {
   })
 
   return (
-    <nav className="flex items-center justify-between">
-      {/* Brand */}
-      <div className="flex items-center gap-3">
-        <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-slate-900 text-sm font-bold text-white">
+    <nav className="flex items-center justify-between gap-4">
+      {/* Brand — left zone */}
+      <div className="flex shrink-0 items-center gap-3">
+        <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-navy text-sm font-bold text-white shadow-sm">
           M
         </div>
 
@@ -35,34 +35,36 @@ function NavHeader({ mode = "industry", onModeChange }) {
         </div>
       </div>
 
-      {/* Navigation */}
-      <ul
-        className="relative hidden w-fit rounded-full border border-slate-200 bg-white p-1 shadow-sm md:flex"
-        onMouseLeave={() =>
-          setPosition((pv) => ({ ...pv, opacity: 0 }))
-        }
-      >
-        <Tab setPosition={setPosition}>Standards</Tab>
-        <Tab setPosition={setPosition}>BIS Services</Tab>
-        <Tab setPosition={setPosition}>My Queries</Tab>
+      {/* Center-right zone: nav pill + mode selector, grouped with deliberate breathing room */}
+      <div className="flex items-center gap-8">
+        <ul
+          className="relative hidden w-fit rounded-full border border-slate-200 bg-white p-1 shadow-sm md:flex"
+          onMouseLeave={() =>
+            setPosition((pv) => ({ ...pv, opacity: 0 }))
+          }
+        >
+          <Tab setPosition={setPosition}>Standards</Tab>
+          <Tab setPosition={setPosition}>BIS Services</Tab>
+          <Tab setPosition={setPosition}>My Queries</Tab>
 
-        <Cursor position={position} />
-      </ul>
+          <Cursor position={position} />
+        </ul>
 
-      {/* Mode */}
-      <DropdownMenu>
-        <DropdownMenuTrigger className="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-700 shadow-sm transition hover:bg-slate-50">
-          {mode === "consumer" ? "Consumer" : "Industry"}
-        </DropdownMenuTrigger>
-        <DropdownMenuContent align="end">
-          <DropdownMenuItem onClick={() => onModeChange?.("industry")}>
-            Industry
-          </DropdownMenuItem>
-          <DropdownMenuItem onClick={() => onModeChange?.("consumer")}>
-            Consumer
-          </DropdownMenuItem>
-        </DropdownMenuContent>
-      </DropdownMenu>
+        {/* Mode — far-right zone */}
+        <DropdownMenu>
+          <DropdownMenuTrigger className="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-700 shadow-sm transition hover:bg-slate-50">
+            {mode === "consumer" ? "Consumer" : "Industry"}
+          </DropdownMenuTrigger>
+          <DropdownMenuContent align="end">
+            <DropdownMenuItem onClick={() => onModeChange?.("industry")}>
+              Industry
+            </DropdownMenuItem>
+            <DropdownMenuItem onClick={() => onModeChange?.("consumer")}>
+              Consumer
+            </DropdownMenuItem>
+          </DropdownMenuContent>
+        </DropdownMenu>
+      </div>
     </nav>
   )
 }
