@@ -15,12 +15,14 @@ function App() {
   const [showSource, setShowSource] = useState(false)
   const [abstention, setAbstention] = useState(null)
   const [status, setStatus] = useState("idle")
+  const [errorMessage, setErrorMessage] = useState(null)
 
   const handleAsk = async () => {
     const trimmedQuestion = question.trim()
     if (!trimmedQuestion || status === "loading") return
 
     setShowSource(false)
+    setErrorMessage(null)
     setStatus("loading")
 
     try {
@@ -39,6 +41,10 @@ function App() {
       console.error("Manak Mitra query failed:", error)
       setResponse(null)
       setAbstention(null)
+      setErrorMessage(
+        error.message ||
+          "We couldn't process that question right now. Please try again."
+      )
       setStatus("error")
     }
   }
@@ -48,6 +54,7 @@ function App() {
     setResponse(null)
     setAbstention(null)
     setShowSource(false)
+    setErrorMessage(null)
     setStatus("idle")
   }
 
@@ -56,6 +63,7 @@ function App() {
     setQuestion(dummyQuestion)
     setResponse(null)
     setShowSource(false)
+    setErrorMessage(null)
     setStatus("abstained")
     setAbstention({
       question: dummyQuestion,
@@ -144,7 +152,7 @@ function App() {
           {response && (
             <div className="mt-8 w-full max-w-2xl rounded-xl border border-slate-200 bg-white p-6 text-left shadow-sm">
               <p className="text-sm font-medium text-slate-500">
-                Mock AI Answer
+                AI Answer
               </p>
 
               <p className="mt-2 text-slate-900">
@@ -236,7 +244,8 @@ function App() {
               </p>
 
               <p className="mt-2 text-slate-900">
-                We couldn't process that question right now. Please try again.
+                {errorMessage ||
+                  "We couldn't process that question right now. Please try again."}
               </p>
             </div>
           )}

@@ -24,3 +24,13 @@ dist-ssr
 *.sw?
 
 .vercel
+
+# Environment variables
+.env
+.env.local
+
+# Python / RAG backend
+__pycache__/
+*.pyc
+.venv/
+venv/
